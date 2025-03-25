@@ -1,5 +1,6 @@
 {
     "name": "meilleursbiens/laravel-slack",
+    "version": "2.2.1",
     "description": "Slack interactive message handler for Laravel",
     "license": "MIT",
     "authors": [
@@ -15,8 +16,8 @@
     "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": ">=7",
-        "illuminate/contracts": "^9.0|^10.0",
-        "illuminate/support": "^9.0|^10.0"
+        "illuminate/contracts": "^9.0|^10.0|^11.0|^12.0",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0"
     },
     "autoload": {
         "psr-4": {
